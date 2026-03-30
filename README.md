@@ -4,9 +4,9 @@ I am CS Student working to get a **Bachelor of Science in Computer Science** in 
 
 I am currently developping projecs with **React**.
 
-I mainly use **TypeScript** for **Web Development** and **Python** for **Scripting and Automation**. My favorite tools are **Obsidian** and **Neovim**.
+I mainly use **JavaScript**. My favorite tools are **Obsidian** and **Neovim**.
 
 ## Tools & Tech 🛠️
-- **Programming Languages**: TypeScript, Python
+- **Programming Languages**: JavaScript
 - **Design**: Figma, Draw.io
 - **Note Taking & Code Editor**: Obsidian, Neovim
