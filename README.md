@@ -8,9 +8,9 @@ I mainly use **TypeScript** for **Web Development** and **Python** for **Scripti
 
 ---
 
-## Tools & Tech
-- TypeScript, Python
-- Figma, Draw.io
-- Obsidian, Neovim
+## Tools & Tech 🛠️
+- **Programming Languages**: TypeScript, Python
+- **Design**: Figma, Draw.io
+- **Note Taking & Code Editor**: Obsidian, Neovim
 
 ---
