@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-I am CS Student working to get a **Bachelor of Science in Computer Science**.
+I am CS Student working to get a **Bachelor of Science in Computer Science** in order to become a **Full-Stack Developer**.
 
-I am currently developping projects to fill my portfolio and gain experience.
+I am currently developping projecs with **React**.
 
 I mainly use **TypeScript** for **Web Development** and **Python** for **Scripting and Automation**. My favorite tools are **Obsidian** and **Neovim**.
 
