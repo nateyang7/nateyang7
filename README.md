@@ -6,11 +6,7 @@ I am currently developping projects to fill my portfolio and gain experience.
 
 I mainly use **TypeScript** for **Web Development** and **Python** for **Scripting and Automation**. My favorite tools are **Obsidian** and **Neovim**.
 
----
-
 ## Tools & Tech 🛠️
 - **Programming Languages**: TypeScript, Python
 - **Design**: Figma, Draw.io
 - **Note Taking & Code Editor**: Obsidian, Neovim
-
----
