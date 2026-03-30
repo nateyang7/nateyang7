@@ -9,12 +9,12 @@ I mainly use **TypeScript** for **Web Development** and **Python** for **Scripti
 ---
 
 ## Tools & Tech
-- TypeScript, Python, C++
+- TypeScript, Python
 - Figma, Draw.io
 - Obsidian, Neovim
 
 ---
 
 ## 📊 GitHub Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=nateyang7&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=nateyang7&show_icons=true&count_private=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=nateyang7&layout=compact&theme=radical)
