@@ -14,6 +14,3 @@ I mainly use **TypeScript** for **Web Development** and **Python** for **Scripti
 - Obsidian, Neovim
 
 ---
-
-## 📊 GitHub Stats
-[![nateyang7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateyang7)](https://github.com/nateyang7/github-readme-stats)
