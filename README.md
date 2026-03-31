@@ -1,12 +1,10 @@
 ## Hey there 👋
 
-I am CS Student working to get a **Bachelor of Science in Computer Science** in order to become a **Full-Stack Developer**.
+I’m a **Computer Science student** pursuing a **Bachelor of Science in CS** with a goal to become a **Full-Stack Developer**.
 
-I am currently developping projecs with **React**.
-
-I mainly use **JavaScript**. My favorite tools are **Obsidian** and **Neovim**.
+Currently, I’m building projects with **React** and primarily coding in **JavaScript**. I love using **Obsidian** for note-taking and **Neovim** for coding.
 
 ## Tools & Tech 🛠️
 - **Programming Languages**: JavaScript
 - **Design**: Figma, Draw.io
-- **Note Taking & Code Editor**: Obsidian, Neovim
+- **Editors & Note-Taking**: Neovim, Obsidian
