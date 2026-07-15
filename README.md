@@ -5,17 +5,6 @@ I’m a **Computer Science student** pursuing a **Bachelor of Science in CS** wi
 Currently, I'm developing websites using **TypeScript** and **React**. I use **Obsidian** for note-taking and **Zed** for coding.
 
 ## Tools & Tech 🛠️
-### Front-end
-- **HTML**
-- **CSS**
-- **TS**
-- **React**
-
-### Back-end
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-
-### Others
+- **Programming Language**: TypeScript (React.js, Node.js)
 - **Design**: Figma, Draw.io
 - **Editors & Note-Taking**: Zed, Obsidian
