@@ -1,10 +1,10 @@
 ## Hey there 👋
 
-I’m a **Computer Science student** pursuing a **Bachelor of Science in CS** with a goal to become a **Full Stack Developer**.
-
-Currently, I'm developing websites using **TypeScript** and **React**. I use **Obsidian** for note-taking and **Zed** for coding.
+I’m a **Computer Science student** studying systems and networking with the goal of becoming a **systems & network administrator**. I'm currently working on building and configuring a GLPI server for my homelab.
 
 ## Tools & Tech 🛠️
-- **Programming Language**: TypeScript (React.js, Node.js)
-- **Design**: Figma, Draw.io
-- **Editors & Note-Taking**: Zed, Obsidian
+- **Programming**: Python
+- **OS**: Win10/11, Debian13, Fedora44
+- **Virtualization**: VMware Workstation Pro, VMware ESXi
+- **IT Support** : GLPI, Microsoft Word, Microsoft Excel
+- **Editors & Note-Taking**: Zed, Neovim, Obsidian
