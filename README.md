@@ -4,7 +4,7 @@ I’m a **Computer Science student** studying systems and networking with the go
 
 ## Tools & Tech 🛠️
 - **Programming**: Python
-- **OS**: Win10/11, Debian13, Fedora44
-- **Virtualization**: VMware Workstation Pro, VMware ESXi
+- **OS**: Win10/11, Debian13, Ubuntu
+- **Virtualization**: Hyper-V, Proxmox VE
 - **IT Support** : GLPI, Microsoft Word, Microsoft Excel
-- **Editors & Note-Taking**: Zed, Neovim, Obsidian
+- **Editors & Note-Taking**: Neovim
